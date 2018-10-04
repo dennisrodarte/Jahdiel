@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Science Project
 
-You can use the [editor on GitHub](https://github.com/dennisrodarte/dennisrodarte.bio.chi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Testing 123, lets see how this works
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The exothermal decomposition of Hydrogen PERoxdie
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
