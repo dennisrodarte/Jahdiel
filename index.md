@@ -1,19 +1,21 @@
-## Welcome to GitHub Pages
+## Jahdiel's 5th Grade Science Project
 
-You can use the [editor on GitHub](https://github.com/dennisrodarte/dennisrodarte.bio.chi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mrs Lesly's Class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The exothermic decomposition of Hydrogen Peroxide, catalyzed by Pottasium Iodide (KI).
+Best known as Elephants Toothpaste
 
 ### Chemical Reaction
 
 Hydrogen Peroxide is decomposes catalytically in the presence of KI followin:
+  H2O2(aq) + I-(aq) -> OI-(aq) + H2O(l)
+  H2O2(aq) + OI-(aq) -> H2O(l) + O2(g) + I-(aq)
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Variable 1
+## Variable 2
+### Variable 3
 
 - Bulleted
 - List
