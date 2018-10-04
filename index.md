@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/dennisrodarte/dennisrodart
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Chemical Reaction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hydrogen Peroxide is decomposes catalytically in the presence of KI followin:
 
 ```markdown
 Syntax highlighted code block
